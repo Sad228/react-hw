@@ -1,6 +1,6 @@
 .main {
   background: silver;
-
+  margin: 10px;
 }
 .name {
   color: red;
@@ -16,4 +16,7 @@
   text-align: center;
   color: antiquewhite;
   margin: 5px;
+}
+h2 {
+  margin: 0;
 }
